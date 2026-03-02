@@ -31,4 +31,4 @@ Design, fabricate, and deploy an autonomous electro-mechanical system that incor
 
 ## Getting Started
 
-Start with the [main syllabus](Nerd_Maxxing.md), pick a category, and begin.
+The first step is to find the syllabus, congratulations. Start with the [main syllabus](Nerd_Maxxing.md), pick a category, and begin.
