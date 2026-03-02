@@ -8,7 +8,7 @@
 | 2 | The Dungeon Master | Write and run a tabletop RPG campaign as Game Master for at least six months of regular sessions. |
 | 3 | The Grand Strategist | Learn and play a full game of a high-complexity grand strategy board game — Twilight Imperium, Advanced Squad Leader, or equivalent. |
 | 4 | The Philologist | Achieve functional competency in a constructed language (Esperanto, Lojban, Quenya, or Toki Pona) — enough to hold a basic conversation or translate a poem. |
-| 5 | The Brewer | Brew a fermented beverage (mead, beer, wine, or cider) from raw ingredients, controlling for specific gravity, temperature, and yeast strain. |
+| 5 | The Knights Who Say Ni | Memorize a scene from *Monty Python and the Holy Grail* and perform it in character, with appropriate voices — to an audience who can verify accuracy against the script. |
 | 6 | The Navigator | Calculate your latitude and longitude using a sextant (or DIY equivalent), an almanac, and a sight-reduction table. |
 | 7 | The Swordsman | Train in a Historical European Martial Art (longsword, rapier, or saber) to the level of competing in or judging a tournament bout. |
 | 8 | The Numismatist | Build a curated collection of historically significant coins, correctly identified by mint, date, ruler, and denomination, with a written catalogue. |
