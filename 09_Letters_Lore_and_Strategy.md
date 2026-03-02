@@ -11,6 +11,6 @@
 | 5 | The Knights Who Say Ni | Memorize a scene from *Monty Python and the Holy Grail* and perform it in character, with appropriate voices — to an audience who can verify accuracy against the script. |
 | 6 | The Speedrunner | Complete a speedrun of a video game and submit it to a public leaderboard — demonstrating mastery of routing, glitch exploitation, and frame-perfect execution. |
 | 7 | The Swordsman | Train in a Historical European Martial Art (longsword, rapier, or saber) and demonstrate proficiency by executing a scored bout under HEMA tournament rules. |
-| 8 | The Numismatist | Build a curated collection of historically significant coins, correctly identified by mint, date, ruler, and denomination, with a written catalogue. |
-| 9 | The Antiquarian | Assemble a cabinet of curiosities — a curated collection spanning natural specimens, scientific instruments, ephemera, and historical artifacts — and document its provenance. |
+| 8 | The Collector | Build a curated collection — historically significant coins, scientific instruments, natural specimens, or a full cabinet of curiosities — correctly identified, catalogued, and with documented provenance. |
+| 9 | The Homesteader | Grow or raise ingredients and cook a complete meal from scratch where every component was produced by your own hand — garden to table, with no store-bought shortcuts. |
 | **FINAL BOSS** | **The Treatise** | **Write, illustrate, typeset, and publish an original work — pamphlet, monograph, or field guide — on a subject you have mastered through this curriculum, and present it to a society, meetup, or community of practitioners.** |

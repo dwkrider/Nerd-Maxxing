@@ -13,4 +13,4 @@
 | 7 | The Submariner | Build a functional ROV or submersible drone capable of operating underwater with live video feed. |
 | 8 | The Wing Builder | Design and build an RC aircraft from raw materials (balsa, foam, or composite) that achieves sustained controlled flight. |
 | 9 | The Sailor | Skipper a sailing vessel under wind power alone — tacking, jibing, and docking — on a voyage of at least 10 nautical miles. |
-| **FINAL BOSS** | **The Full-Stack Flyer** | **Design an airframe from scratch, fabricate it, integrate avionics and a flight controller, and fly it — autonomous or RC — on a mission profile you defined: survey, delivery, or data collection.** |
+| **FINAL BOSS** | **The Expedition Machine** | **Design, build, and deploy a vehicle — land, air, water, or hybrid — that completes an autonomous or human-piloted mission combining propulsion, navigation, and sensor data collection across a course you defined.** |

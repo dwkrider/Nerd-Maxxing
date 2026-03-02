@@ -4,13 +4,13 @@
 
 | # | Badge | Achievement |
 |---|-------|-------------|
-| 1 | The Chip Maker | Mill a functional aluminum part on a CNC using proper feeds, speeds, and toolpaths. |
-| 2 | The Turner | Turn a steel or brass cylinder on a lathe to a tolerance of 0.005 inches. |
+| 1 | The Machinist | Mill a functional aluminum part on a CNC using proper feeds and speeds, and turn a precision cylinder on a lathe to a tolerance of 0.005 inches. |
+| 2 | The Tanner | Cut, stitch, and finish a functional leather item — bag, belt, sheath, or journal cover — using hand tools and traditional techniques. |
 | 3 | The Caster | Create a two-part silicone mold and cast a functional part in resin, and build a sand casting flask with a split pattern and pour molten aluminum into a mold of your own making. |
-| 4 | The Welder | Lay a structurally sound bead joining two pieces of metal using MIG, TIG, or stick welding. |
-| 5 | The Light Carver | Design and laser-cut an interlocking, press-fit assembly requiring no glue or fasteners. |
+| 4 | The Metalsmith | Lay a structurally sound weld joining two pieces of metal, heat-treat a piece of tool steel, and weave a functional piece of chain mail from hand-formed wire rings. |
+| 5 | The Digital Fabricator | Design and produce a functional assembly using digital fabrication (laser cutting, 3D printing, or both) with moving parts or interlocking joints that require no glue or fasteners. |
 | 6 | The Bridge Builder | Design and build a truss structure that supports at least 50 times its own weight before failure. |
-| 7 | The Print-in-Place | 3D print a mechanism with moving hinges or gears that functions directly off the build plate. |
-| 8 | The Armorer | Heat-treat a piece of tool steel — harden and temper it — and weave a functional piece of chain mail from hand-formed wire rings. |
+| 7 | The Potter | Throw, glaze, and fire a functional ceramic piece on a potter's wheel or through hand-building techniques. |
+| 8 | The Glassblower | Shape molten glass into a functional or artistic piece using lampwork or furnace glassblowing techniques. |
 | 9 | The Woodwright | Build a piece of furniture or structural element using traditional joinery — mortise and tenon, dovetails, or hand-cut joints — finished and functional without screws or nails. |
-| **FINAL BOSS** | **The Clockmaker** | **Design, CAM, and machine a functional multi-part mechanical clock assembly from raw metal stock. Every gear, arbor, and plate must be fabricated by your hand and tooling.** |
+| **FINAL BOSS** | **The Master Builder** | **Design and build a functional object that combines at least four distinct materials — metal, wood, ceramic, glass, leather, or polymer — each worked using techniques appropriate to that material.** |
