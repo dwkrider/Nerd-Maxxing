@@ -11,6 +11,6 @@
 | 5 | The Cryptographer | Implement a working encryption/decryption system in code — symmetric or asymmetric — and use it to exchange a message securely with another person. |
 | 6 | The Reverse Engineer | Decompile, disassemble, or black-box reverse-engineer a protocol, file format, or binary to understand its inner workings. |
 | 7 | The Language Designer | Write an interpreter or compiler for a simple programming language, domain-specific language, or calculator with parsing and evaluation. |
-| 8 | The Machine Learner | Train a model from scratch on a real dataset, evaluate it against a holdout set, and deploy it to make predictions on new data. |
-| 9 | The Agent Builder | Build a personal AI agent that autonomously performs a real task on your behalf — using tool calls, memory, and multi-step reasoning — running on a locally hosted model. |
+| 8 | The Machine Intellect | Train a machine learning model from scratch on a real dataset, then build a personal AI agent — with tool use, memory, and multi-step reasoning — running on a locally hosted model. |
+| 9 | The Game Developer | Design and build a complete, playable video game — with original mechanics, art, and a gameplay loop — and release it publicly. |
 | **FINAL BOSS** | **The Full-Stack Sovereign** | **Build and operate a complete personal computing infrastructure — self-hosted services, automated orchestration, local AI inference, encrypted backups, and monitoring — running entirely on hardware you own with no dependency on third-party cloud providers.** |
