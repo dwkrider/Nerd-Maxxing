@@ -4,9 +4,9 @@
 
 | # | Badge | Achievement |
 |---|-------|-------------|
-| 1 | The Darkroom | Shoot, develop, and print a photograph entirely in a wet darkroom — from exposed film to finished silver gelatin print. |
+| 1 | The Filmmaker | Shoot, develop, and print a photograph in a wet darkroom, and shoot, edit, and score a short film with original footage, deliberate shot composition, and a narrative or documentary structure. |
 | 2 | The Illustrator | Complete a series of original illustrations — scientific, technical, or artistic — demonstrating competency in observational drawing, perspective, and rendering. |
-| 3 | The Cinematographer | Shoot, edit, and score a short film with original footage, deliberate shot composition, and a narrative or documentary structure. |
+| 3 | The Cosplayer | Build a costume, prop replica, or suit of armor using EVA foam, thermoplastics, or casting — patterned, assembled, and finished to convention quality. |
 | 4 | The Scribe | Master a formal calligraphic script (Italic, Copperplate, or Blackletter) and pull a clean letterpress impression from movable type you set yourself. |
 | 5 | The Cartographer | Draw a detailed, accurate map of a local area by hand using survey measurements and a consistent scale and legend. |
 | 6 | The Horologist | Disassemble, clean, lubricate, and reassemble a mechanical watch or clock movement and regulate it to within ±10 seconds per day. |
