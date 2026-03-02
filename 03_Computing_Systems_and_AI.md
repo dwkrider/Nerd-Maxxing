@@ -4,8 +4,8 @@
 
 | # | Badge | Achievement |
 |---|-------|-------------|
-| 1 | The Self-Hoster | Compile a custom OS kernel and boot into it, then run a personal server hosting at least three services — with proper network segmentation, a firewall, and a reverse proxy with TLS termination — replacing commercial SaaS with infrastructure you own and maintain. |
-| 2 | The Relational Mind | Design a normalized relational database, populate it, and write a query joining three or more tables to answer a non-trivial question. |
+| 1 | The Self-Hoster | Configure and compile a custom Linux kernel and boot a system from it, then run a personal server hosting at least three services — with proper network segmentation, a firewall, and a reverse proxy with TLS termination. |
+| 2 | The Relational Mind | Design a normalized relational database, populate it with real-world data, and write queries using multi-table joins, aggregation, and at least one view or stored procedure to answer non-trivial analytical questions. |
 | 3 | The Exploit Hunter | Compete in a Capture The Flag (CTF) cybersecurity competition and solve challenges across multiple categories — cryptography, binary exploitation, web security, or forensics — and pick a pin-tumbler lock of at least five pins, demonstrating mastery of both digital and physical security. |
 | 4 | The Automator | Write a program or script that automates a complex recurring task — monitoring, backups, data transformation, or deployment — and run it unattended for a month. |
 | 5 | The Cryptographer | Implement a working encryption/decryption system in code — symmetric or asymmetric — and use it to exchange a message securely with another person. |
